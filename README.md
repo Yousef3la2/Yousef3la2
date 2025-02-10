@@ -10,7 +10,7 @@
 </p>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,ai,py,pytorch,tensorflow,opencv,raspberrypi,arduino,c,cpp,cs,java,js,ts,nodejs,npm,flask,php,mysql,postgres,prisma,html,css,bootstrap,materialui,tailwind,react,redux,nextjs,vite,github,figma,ps&perline=17)]()
+[![My Skills](https://skillicons.dev/icons?i=anaconda,ai,py,pytorch,tensorflow,opencv,raspberrypi,arduino,c,cpp,cs,java,js,ts,nodejs,npm,expressوflask,php,mysql,postgres,prisma,html,css,bootstrap,materialui,tailwind,react,redux,nextjs,vite,github,figma,ps&perline=17)]()
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef3la2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
